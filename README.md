@@ -3,7 +3,7 @@
 Junior ML Engineer for EdgeAI in [Future Design Systems] in Daejeon, South Korea.
 
 I've been working on how to accelerate Deep Learning models on [Field Programmable Gate Array(FPGA)](https://en.wikipedia.org/wiki/Field-programmable_gate_array) such as Zedboard, Nexys Video, ...
-I've contributed to make basic HLS source codes for Deep learning operations (e.g. Convolution, Linear, Batch Normalization, ...)
+I've contributed to make basic HLS source codes for Deep learning operations (e.g. Convolution, Linear, Batch Normalization, ...) \
 -> check [Deep Learning Routines] (Due to company credential, my contributes are not recorded in this repository. But you can see my name in the source codes)
 
 Check my works [Facemask Detection on FPGA along with Raspberry Pi4](https://www.youtube.com/watch?v=QDCTkTmQO9o&ab_channel=FutureDesignSystems)
