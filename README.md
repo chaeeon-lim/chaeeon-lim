@@ -18,5 +18,5 @@ Check my works [Facemask Detection on FPGA along with Raspberry Pi4](https://www
 - ⚡ Fun fact: ...
 
 
-[Future Design Systems]: https://www.future-ds.com/en
+[Future Design Systems]: http://www.future-ds.com/en/index.html
 [Deep Learning Routines]: https://github.com/github-fds/Deep_Learning_Routines
